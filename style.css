@@ -1,0 +1,30 @@
+body {
+  flex-direction: row;
+  display: flex;
+
+  margin: 0;
+  align-items: center;
+  background-color: rgb(237, 247, 255);
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+.container {
+  background-color: white;
+  color: rgb(126, 123, 123);
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 20vw;
+}
+img {
+  height: 180px;
+  width: 200px;
+  margin-top: 20px;
+}
+p {
+  font-size: 14px;
+  padding: 2px;
+}
+h5 {
+  padding: 4px;
+}
